@@ -1,0 +1,14 @@
+DOMAIN_NAME=hkhrayza.42.fr
+
+MYSQL_DATABASE=wordpress
+MYSQL_USER=wp_user
+MYSQL_PASSWORD=wp_pass
+MYSQL_ROOT_PASSWORD=root
+
+#MYSQL_ROOT_PASSWORD=husseinroot
+#MYSQL_USER=hussein
+#MYSQL_PASSWORD=dbpassword
+#MYSQL_DATABASE=wordpress
+#WP_ADMIN_USER=hkhrayza
+#WP_ADMIN_PASSWORD=adminpassword
+#WP_ADMIN_EMAIL=husseinkhrayzat@hotmail.com
